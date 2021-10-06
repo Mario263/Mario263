@@ -31,16 +31,9 @@ watch my contributions get eaten by a snake
 <p align="center">
 <a href="https://github.com/Mario263">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mario263&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mario263&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mario263&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-  
-  
-  
-  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario263&show_icons=true&theme=radical)
-](https://github.com/Mario263/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
