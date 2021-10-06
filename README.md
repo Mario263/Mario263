@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i am gamer too XD![cat](https://raw.githubusercontent.com/Mario263/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif)
 
 ## 📫 How to reach me:
- <a href="https://twitter.com/Abhishe222002">![Logos](https://camo.githubusercontent.com/27771a4aa7fe3d002a2da9bb569b957a1ffd2596d33f5f9f096873fa3afc0364/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d776869746526636f6c6f723d303731413243)</a>
 <p align="center">
-<a href="https://Mario263.github.io/"><img src="https://img.shields.io/badge/-Mario263-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://twitter.com/Abhishe222002">![Logos](https://camo.githubusercontent.com/27771a4aa7fe3d002a2da9bb569b957a1ffd2596d33f5f9f096873fa3afc0364/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d776869746526636f6c6f723d303731413243)</a>
 <a href="https://linkedin.com/in/abhishek-sharma-81253a196"><img src="hhttps://img.shields.io/badge/LinkedIn-Mario263-blue?logo=Linkedin&logoColor=blue&labelColor=black"/></a>
 <a href="mailto:sharma.abhishek263@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-sharma.abhishek263@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black"/></a>
 <a href="https://www.instagram.com/levi.eren263/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
