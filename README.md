@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Mario263/Mario263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ watch my contributions get eaten by a snake
 
 ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
 
--->
+
