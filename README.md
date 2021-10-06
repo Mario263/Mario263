@@ -25,5 +25,5 @@ watch my contributions get eaten by a snake
 ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario263&show_icons=true&theme=radical)
-)](https://github.com/Mario263/github-readme-stats)
+](https://github.com/Mario263/github-readme-stats)
 
