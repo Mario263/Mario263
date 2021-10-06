@@ -3,13 +3,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Mario263}/count.svg)
 
 Here are some ideas to get you started:
-
-- 
-
-<img src="https://linkedin-readme.vercel.app/skills?username=https://www.linkedin.com/in/abhishek-sharma-81253a196/"/>
-
-
-
 - 🔭 I’m currently working on implementation of Face detection on fpv drones 
 - 🌱 I’m currently learning ML Deep Learning
 - 👯 I’m looking to collaborate on any OpenCv, ML projects 
