@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML Deep Learning
 - 👯 I’m looking to collaborate on any OpenCv, ML projects 
 - 🤔 I’m looking for help with cp
-- 😄 Pronouns: Mario
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am gamer too XD![cat](https://raw.githubusercontent.com/Mario263/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif)
 
 ## 📫 How to reach me:
