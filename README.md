@@ -2,23 +2,16 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mario263}/count.svg)
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on implementation of Face detection on fpv drones 
-- 🌱 I’m currently learning ML Deep Learning
-- 👯 I’m looking to collaborate on any OpenCv, ML projects 
-- 🤔 I’m looking for help with cp
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i am gamer too XD![cat](https://raw.githubusercontent.com/Mario263/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif)
 
 ## 📫 How to reach me:
 <p align="center">
-<a href="https://twitter.com/Abhishe222002"><img src="https://img.shields.io/badge/-twitter-blue">
-<a href="https://linkedin.com/in/abhishek-sharma-81253a196"><img src="hhttps://img.shields.io/badge/LinkedIn-Mario263-blue?logo=Linkedin&logoColor=blue&labelColor=black"/></a>
+
+<a href="https://www.linkedin.com/in/abhisheksharma263/"><img src="hhttps://img.shields.io/badge/LinkedIn-Mario263-blue?logo=Linkedin&logoColor=blue&labelColor=black"/></a>
 <a href="mailto:sharma.abhishek263@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-sharma.abhishek263@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black"/></a>
-<a href="https://www.instagram.com/levi.eren263/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
                                                         
 ## Logos
-![pythongif](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270) ![github](https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270) <img height="180em" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/stormtroopocat.png"/> 
+
 
 watch my contributions get eaten by a snake
 ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
